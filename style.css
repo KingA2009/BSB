@@ -1,0 +1,28 @@
+.one {
+    text-align: center;
+}
+
+.img {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+}
+
+.container {
+    width: 1140px;
+    margin: 0;
+    padding: 0;
+}
+
+.faildset {
+    display: flex;
+}
+
+.btn {
+    background-color: gray;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+}
